@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ProHire | Find & Hire the Right Professional",
+  "description": "ProHire helps you find and hire the right professionals quickly and efficiently, featuring AI-powered search and image generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
